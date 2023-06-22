@@ -22,3 +22,6 @@ go.work
 
 # Docker related
 docker-compose.yml
+
+# Build result
+bin
